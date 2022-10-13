@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">mobilki1_quiz</string>
+    <string name="button_true">True</string>
+    <string name="button_false">False</string>
+    <string name="button_next">Next</string>
+
+    <string name="q_1">System iOS jest lepszy od systemu Android.</string>
+    <string name="q_2">Czy Jeff Bezos to prezes Amazona</string>
+    <string name="q_3">W odcinku 1567 serialu Klan Jerzy je na sniadanie jajecznice</string>
+    <string name="q_4">Czy autor quizu jest swiadomy co robi</string>
+    <string name="q_5">Najlepiej wszystkie zadania odkladac na ostatni moment</string>
+
+    <string name="correct_answer">Brawo! Poprawna odpowiedz</string>
+    <string name="incorrect_answer">Zle! Popraw sie</string>
+
+</resources>
