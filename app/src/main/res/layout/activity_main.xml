@@ -8,17 +8,12 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-<!--    <TextView-->
-<!--        android:layout_width="wrap_content"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:text="cos" />-->
-
     <TextView
         android:id="@+id/question_text_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:padding="30dp"
-        android:text="SIEMA" />
+        android:text="Quiz" />
 
     <LinearLayout
         android:layout_width="wrap_content"
@@ -46,5 +41,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/button_next" />
+
+    <Button
+        android:id="@+id/prompt_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Prompt" />
+
 
 </LinearLayout>

@@ -10,8 +10,8 @@ public class Question {
         this.trueAnswer = trueAnswer;
     }
 
-    public boolean isTrueAnswer(Question question) { return question.trueAnswer; }
+    public boolean isTrueAnswer() { return trueAnswer; }
 
-    public int getQuestionId(Question question) { return question.questionId; }
+    public int getQuestionId() { return questionId; }
 
 }

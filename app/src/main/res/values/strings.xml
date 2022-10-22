@@ -3,6 +3,7 @@
     <string name="button_true">True</string>
     <string name="button_false">False</string>
     <string name="button_next">Next</string>
+    <string name="prompt_button">Prompt</string>
 
     <string name="q_1">System iOS jest lepszy od systemu Android.</string>
     <string name="q_2">Czy Jeff Bezos to prezes Amazona</string>
@@ -12,5 +13,6 @@
 
     <string name="correct_answer">Brawo! Poprawna odpowiedz</string>
     <string name="incorrect_answer">Zle! Popraw sie</string>
+    <string name="answer_was_shown">Odpowiedz byla juz wyswietlona</string>
 
 </resources>
